@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">plombier</string>
+    <string name="title_activity_dashboard">les interventions</string>
+
+
+    <string name="selected_item">Selected item:</string>
+        <string-array name="plumbers">
+            <item>Mohammed</item>
+            <item>Abderrahmane</item>
+            <item>Abdennour</item>
+            <item>Youcef</item>
+            <item>Abdesslam</item>
+        </string-array>
+
+    <string-array name="type">
+        <item>catégorie1</item>
+        <item>catégorie2</item>
+        <item>catégorie3</item>
+    </string-array>
+
+</resources>
